@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Confidence-Calibrated Explainable Learning for Phishing URL Detection and SOC Triage"
+message: "If you use this code, please cite this repository and the related research paper."
+type: software
+authors:
+  - family-names: Syed
+    given-names: Abdul Aleem
+year: 2026
+repository-code: "https://github.com/YOUR-USERNAME/phishing-url-soc-triage"
